@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Structure
 
-- Notes and content are managed as an Obsidian vault (`.obsidian/` config present).
+- Notes and content are managed as github wiki.
 - The vault uses the **Dark Moss** theme and the **Terminal** community plugin.
 - Folder workflow: `owner-inbox/` (incoming items for the vault owner to triage), `team-inbox/` (incoming items from collaborators), `team/` (curated/approved content).
 
